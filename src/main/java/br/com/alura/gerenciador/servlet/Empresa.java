@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Empresa {
 	
-	private int id;
+	private int id;    //registro da empresa
 	private String nome;
 	private Date dataAbertura = new Date();
 	
